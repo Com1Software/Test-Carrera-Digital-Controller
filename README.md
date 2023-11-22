@@ -1,4 +1,4 @@
-# Test-Carrera-Digital-Controller-
+# Test Carrera Digital Controller
 
 https://github.com/tkem/CarreraDigitalControlUnit
 
